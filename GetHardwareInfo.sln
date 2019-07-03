@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "GetHardwareInfo", "GetHardwareInfo.exe", "{5AED1EA8-F6D3-483B-95E3-907A762CA14E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\FileHistory\Jason\JASONSALIENWARE\Data\C\Users\Jason\Desktop\backup of black thumb drive\getHardwareInfo\getHardwareInfo\bin\Debug\GetHardwareInfo.exe
+		RemoteMachine = M17ALIENWARE
+		StartingDirectory = D:\Temp\getHardwareInfo\bin\Debug\.vs\GetHardwareInfo
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AED1EA8-F6D3-483B-95E3-907A762CA14E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF27FF8-2A78-48EB-957E-B4779BEFCF7B}
+	EndGlobalSection
+EndGlobal
